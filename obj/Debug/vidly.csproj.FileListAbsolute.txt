@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HUMBER\FULL STACK\CODE SAMPLES\csharp\vidly\vidly\obj\Debug\vidly.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HUMBER\FULL STACK\CODE SAMPLES\csharp\vidly\vidly\obj\Debug\vidly.Migrations.InitialModels.resources
+C:\Users\user\Desktop\HUMBER\FULL STACK\CODE SAMPLES\csharp\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\user\Desktop\HUMBER\FULL STACK\CODE SAMPLES\csharp\vidly\vidly\obj\Debug\vidly.csproj.GenerateResource.cache
+C:\Users\user\Desktop\HUMBER\FULL STACK\CODE SAMPLES\csharp\vidly\vidly\obj\Debug\vidly.csproj.CoreCompileInputs.cache
